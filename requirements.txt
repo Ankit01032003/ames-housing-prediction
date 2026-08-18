@@ -7,4 +7,4 @@ joblib
 matplotlib
 seaborn
 statsmodels
-tensorflow
+tensorflow==2.13.0
