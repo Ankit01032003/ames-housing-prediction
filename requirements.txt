@@ -7,4 +7,4 @@ joblib
 matplotlib
 seaborn
 statsmodels
-tensorflow-cpu
+tensorflow
